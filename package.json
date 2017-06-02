@@ -1,0 +1,23 @@
+{
+  "name": "socket-io-app",
+  "version": "1.0.0",
+  "description": "socket io app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "socket",
+    "io",
+    "app"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "express": "^4.15.3",
+    "socket.io": "^2.0.1"
+  }
+}
